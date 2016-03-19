@@ -554,6 +554,7 @@ Deutsche Telekom (DE):Europe/Berlin
 Deutsche Welle (US):US/Eastern
 Deutsche Welle TV:Europe/Berlin
 DFamilia (US):US/Eastern
+Direct to DVD:US/Eastern
 Discovery Channel (Asia):Asia/Singapore
 Discovery CHANNEL (AU):Australia/Sydney
 Discovery Channel (Australia):Australia/Sydney
